@@ -26,3 +26,10 @@ body{
     font-size: 20px;
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+canvas{
+    border: 5px solid white;
+    border-radius: 75px;
+    box-shadow: 5px 5px 38px red;
+    margin: 0px;
+}
